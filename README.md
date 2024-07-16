@@ -25,7 +25,7 @@ ZARA is a voice assistant web application designed to assist users with various 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/ZARA-Voice-Assistant.git
+    git clone https://github.com/DearAsutosh/ZARA-Voice-Assistant.git
     ```
 2. Navigate to the project directory:
     ```bash
