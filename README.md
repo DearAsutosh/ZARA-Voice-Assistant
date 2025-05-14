@@ -65,10 +65,6 @@ Contributions are welcome! Please follow these steps:
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - **Web Speech API**: For enabling voice recognition and text-to-speech functionalities.
@@ -79,4 +75,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Created by Asutosh Sahoo**
 
-For more information, visit [Asutosh's LinkedIn](https://www.linkedin.com/in/asutoshsahoo/) or follow him on [Instagram](https://www.instagram.com/dear_asutosh/).
+For more information, visit [Asutosh's LinkedIn](https://www.linkedin.com/in/asutoshsahoo/) .
