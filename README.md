@@ -9,7 +9,6 @@ ZARA is a voice assistant web application designed to assist users with various 
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
